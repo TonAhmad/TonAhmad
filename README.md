@@ -12,37 +12,50 @@
 </div>
 
 ---
-
+<div>
+  <div>
+    
 ## 🚀 About Me
 
-💻 Passionate about coding and technology  
-🌱 Always learning and exploring new technologies  
-🎯 Focused on building quality software  
-✨ Love creating clean and efficient solutions
+I'm a full-stack developer who loves to learning new things everyday, and max out my potential. Sometimes i coding for fun but it just a while.
 
----
+<div align=center>
+  <b>I love coding (sometimes)</b> 
+</div>
+  </div>
+  <div align=center>
+    
+### Languages & Frameworks
 
-## 🚀 Featured Projects
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="center">
+### Databases & Tools
 
-Here are some of my notable projects. Check them out! 
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<!-- Featured project cards will appear here when you have pinned repositories -->
-<!-- You can add specific project cards like this: -->
+### Development Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <!-- 
-<a href="https://github.com/TonAhmad/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TonAhmad&repo=project1&theme=tokyonight" alt="Project 1" />
-</a>
-<a href="https://github.com/TonAhmad/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TonAhmad&repo=project2&theme=tokyonight" alt="Project 2" />
-</a>
+Uncomment when WakaTime is configured:
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonahmad&theme=tokyonight)](https://wakatime.com/@tonahmad)
 -->
 
+*WakaTime integration coming soon...*
+  </div>
 </div>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -85,73 +98,8 @@ Here are some of my notable projects. Check them out!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonAhmad&theme=tokyo-night&hide_border=true&area=true" alt="TonAhmad's activity graph"/>
   
 </div>
-
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Coding Activity (WakaTime)
-
-<!-- 
-Uncomment when WakaTime is configured:
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonahmad&theme=tokyonight)](https://wakatime.com/@tonahmad)
--->
-
-*WakaTime integration coming soon...*
-
-</div>
-
----
-
-## 📰 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by the blog-post-workflow -->
-<!-- Your latest blog posts from dev.to, Medium, or other feeds will appear here -->
-<!-- BLOG-POST-LIST:END -->
-
-*📌 Stay tuned for my latest articles and tutorials!*
-
----
-
-## 📌 Pinned Gists & Code Snippets
-
-<div align="center">
-
-💡 Check out my useful code snippets and gists:
-
-<!-- Add your gists here -->
-<!-- 📍 [Useful Code Snippet 1](https://gist.github.com/TonAhmad/gist-id) -->
-<!-- 📍 [Useful Code Snippet 2](https://gist.github.com/TonAhmad/gist-id) -->
-
-*Coming soon...*
-
-</div>
-
----
 
 ## 🏅 GitHub Achievements
 
@@ -163,18 +111,7 @@ Uncomment when WakaTime is configured:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonAhmad)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL@example.com)
-
-</div>
-
----
-
-<div align="center">
+<div align=center>
   
 ### 📌 Profile Views & Visitors
 
@@ -185,19 +122,12 @@ Uncomment when WakaTime is configured:
 
 </div>
 
----
 
 <div align="center">
   
 **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
----
 
-### 🎨 Theme Mode
-
-![GitHub Dark Mode](https://img.shields.io/badge/Theme-Tokyo%20Night-blueviolet?style=flat-square)
-
----
 
 Made with ❤️ by TonAhmad | Last Updated: 2024
 
