@@ -71,10 +71,11 @@ Button untuk connect dengan Anda:
 
 ### Update Informasi Pribadi
 
-1. **Ganti Email:**
+1. **Ganti Email (PENTING!):**
    - Buka `README.md`
-   - Cari `mailto:your-email@example.com`
-   - Ganti dengan email Anda
+   - Cari `mailto:REPLACE_WITH_YOUR_EMAIL@example.com`
+   - Ganti dengan email asli Anda
+   - Atau hapus badge Email jika tidak ingin menampilkan email
 
 2. **Update About Me:**
    - Edit bagian "About Me" di `README.md`

@@ -185,6 +185,12 @@ Brief description of your amazing project
 
 ## 🔧 Troubleshooting
 
+### Email placeholder shows up?
+- Open `README.md`
+- Find `mailto:REPLACE_WITH_YOUR_EMAIL@example.com`
+- Replace with your actual email address
+- Or remove the entire Email badge line if you prefer not to show email publicly
+
 ### Stats tidak muncul?
 - Pastikan repository TonAhmad/TonAhmad adalah public
 - Tunggu beberapa menit untuk cache refresh
