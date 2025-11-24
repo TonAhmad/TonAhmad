@@ -78,20 +78,6 @@ Here are some of my notable projects. Check them out!
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonAhmad/TonAhmad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonAhmad/TonAhmad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TonAhmad/TonAhmad/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -119,15 +105,13 @@ Here are some of my notable projects. Check them out!
 ### Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Development Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Coding Activity (WakaTime)
 
@@ -185,36 +169,6 @@ Uncomment when WakaTime is configured:
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonAhmad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL@example.com)
-
-</div>
-
----
-
-## 🎯 GitHub Skyline
-
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-2024-blue?style=for-the-badge&logo=github)](https://skyline.github.com/TonAhmad/2024)
-[![GitHub Skyline 2023](https://img.shields.io/badge/GitHub_Skyline-2023-blue?style=for-the-badge&logo=github)](https://skyline.github.com/TonAhmad/2023)
-
-*View my GitHub contributions in 3D!*
-
-</div>
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-
-If you find my work helpful or interesting, consider supporting me:
-
-<!-- Update these URLs with your actual support platform profiles -->
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tonahmad)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tonahmad)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tonahmad)
-
-Your support helps me create more open-source projects! 🙏
 
 </div>
 
