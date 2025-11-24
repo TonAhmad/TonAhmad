@@ -145,6 +145,8 @@ Uncomment when WakaTime is configured:
 ## 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated by the blog-post-workflow -->
+<!-- Your latest blog posts from dev.to, Medium, or other feeds will appear here -->
 <!-- BLOG-POST-LIST:END -->
 
 *📌 Stay tuned for my latest articles and tutorials!*
@@ -207,6 +209,7 @@ Uncomment when WakaTime is configured:
 
 If you find my work helpful or interesting, consider supporting me:
 
+<!-- Update these URLs with your actual support platform profiles -->
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tonahmad)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tonahmad)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tonahmad)
