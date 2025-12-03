@@ -128,9 +128,6 @@ Uncomment when WakaTime is configured:
 **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 
-
-Made with ❤️ by TonAhmad | Last Updated: 2024
-
 ![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
